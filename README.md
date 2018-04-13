@@ -5,7 +5,7 @@ This is a Node.js/Express/MongoDB application for making room bookings.
 
 It uses the **Express** web framework, and stores information about bookable rooms and bookings in a **MongoDB** database.
 
-It use the **EJS** templating language in its view files.
+It uses the **EJS** templating language in its view files.
 
 Installation
 ------------
